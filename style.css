@@ -1,0 +1,10 @@
+.text1{
+    color: lightcoral;
+    font-family:'Courier New', Courier, monospace;
+}
+.text2{
+    color: crimson;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+    font-size:bold;
+}
